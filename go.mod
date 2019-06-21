@@ -3,7 +3,7 @@ module moul.io/assh
 require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.4.2 // indirect
-	github.com/Masterminds/sprig v2.18.0+incompatible
+	github.com/Masterminds/sprig v2.20.0+incompatible
 	github.com/StackExchange/wmi v0.0.0-20190530172153-cbe66965904d // indirect
 	github.com/aokoli/goutils v1.1.0 // indirect
 	github.com/awalterschulze/gographviz v0.0.0-20190530172153-fa59802746ab
@@ -30,11 +30,11 @@ require (
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/smartystreets/assertions v0.0.0-20190530172153-f487f9de1cd3 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190530172153-68dc04aab96a
-	github.com/spf13/cobra v0.0.4
+	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.4.0
 	go.uber.org/zap v1.10.0
-	golang.org/x/crypto v0.0.0-20190530172153-20be4c3c3ed5
-	golang.org/x/net v0.0.0-20190530172153-f3200d17e092
+	golang.org/x/crypto v0.0.0-20190621232408-cc06ce4a13d4
+	golang.org/x/net v0.0.0-20190621232408-3b0461eec859
 	golang.org/x/time v0.0.0-20190530172153-9d24e82272b4
 )
